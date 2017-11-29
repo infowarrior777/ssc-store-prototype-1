@@ -1,0 +1,1 @@
+import { gateway as MoltinGateway } from '@moltin/sdk';
